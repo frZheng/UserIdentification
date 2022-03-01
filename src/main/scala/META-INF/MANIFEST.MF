@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: scala-actors-2.11.0.jar scala-actors-migration_2.11-1.1.0.ja
+ r scala-library.jar scala-parser-combinators_2.11-1.0.4.jar scala-refle
+ ct.jar scala-swing_2.11-1.0.2.jar scala-xml_2.11-1.0.4.jar
+
